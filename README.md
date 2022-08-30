@@ -2,6 +2,6 @@
 
 Variables:
 
-hsp=Horizontal Speed.\n
-vsp=Vertical Speed.\n
-grv: Gravity. 0-0.5\n
+hsp=Horizontal Speed.
+vsp=Vertical Speed.
+grv: Gravity. 0-0.5
